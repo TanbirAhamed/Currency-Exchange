@@ -5,5 +5,5 @@
 
 <h2 style="color: #36BCF7FF;" align="center"> View Website </h2>
 <div align=center>
-  <a href="https://seemly-secretary.surge.sh/"><img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"></a>
+  <a href="https://seemly-secretary.surge.sh/">Checkout This</a>
 </div>
